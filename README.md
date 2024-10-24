@@ -1,6 +1,6 @@
 # DataCleanAndFormatted
 
-##This is my second deliverable.
+## This is my second deliverable.
 Both the cleaning and formatting were done in R Studio. 
 
 The data sets used can be found here.
