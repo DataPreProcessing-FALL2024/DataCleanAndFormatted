@@ -464,7 +464,7 @@
 "Dell","Ultrabook","13.3","1920x1080","Intel Core i5 8250U 1.6GHz","8","256GB SSD","Intel UHD Graphics 620","Windows 10","1.42",98133.768
 "Asus","Notebook","15.6","3840x2160","Intel Core i7 6700HQ 2.6GHz","12","128GB SSD +  1TB HDD","Intel HD Graphics 530","Windows 10","2.06",69210.72
 "Dell","Notebook","14","1366x768","Intel Core i3 6100U 2.3GHz","8","128GB SSD","Intel HD Graphics 520","Windows 10","1.79",39427.2
-"Dell","Workstation","?","1920x1080","Intel Core i7 7700HQ 2.8GHz","8","256GB SSD","Nvidia Quadro M1200","Windows 10","1.78",128298.24
+"Dell","Workstation",NA,"1920x1080","Intel Core i7 7700HQ 2.8GHz","8","256GB SSD","Nvidia Quadro M1200","Windows 10","1.78",128298.24
 "Lenovo","Notebook","14","1920x1080","Intel Core i5 7200U 2.5GHz","8","180GB SSD","Intel HD Graphics 620","Windows 10","1.7",72673.92
 "Toshiba","Notebook","13.3","1920x1080","Intel Core i5 7200U 2.5GHz","8","256GB SSD","Intel HD Graphics 620","Windows 10","1.05",89084.16
 "Dell","Notebook","15.6","1920x1080","Intel Core i7 8550U 1.8GHz","8","512GB SSD","Nvidia GeForce 940MX","Windows 10","2.16",67239.36
